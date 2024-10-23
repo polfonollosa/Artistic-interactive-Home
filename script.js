@@ -1,6 +1,6 @@
 document.addEventListener('mousemove', (event) => {
     const { clientX, clientY } = event;
-
+// polom
     // Selección de todas las imágenes con la clase 'image'
     const images = document.querySelectorAll('.image');
     images.forEach((image) => {
